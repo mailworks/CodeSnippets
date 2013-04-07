@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>ppp</string>
+	<string>lllObject</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - &lt;#Label#&gt;</string>
+	<string>NSLog(@"&lt;#?#&gt;:%@",&lt;#?#&gt;);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>792E95EC-40DA-4ED4-A08E-52980FD42E7F</string>
+	<string>B0C3F2D8-EB81-4EB7-9E29-07CA9A76D454</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
-	<key>IDECodeSnippetPlatformFamily</key>
-	<string>iphoneos</string>
 	<key>IDECodeSnippetSummary</key>
-	<string>定义书签</string>
+	<string>NSLogObject</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>#progra mark -</string>
+	<string>NSLogObject</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
